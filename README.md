@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-<h3 align="center">
+# Hello 👋, Welcome to my GitHub profile..
+
+<h2 align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=JavaScript+Developer;Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Node.js;Learning+System+Design"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=false&vCenter=true&width=700&lines=My+name+is+Ritik+Kumar...;I+am+21+years+old...;Computer+Science+Student...;Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Node.js;Backend-Focused+Developer;Exploring+System+Design"
     alt="Typing SVG"
   />
-</h3>
+</h2>
+
+
 
 <p align="center">
   <img
@@ -23,10 +27,9 @@
 
 ---
 
+
 ## 🚀 About Me
 
-I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer.  
-I love building ML, AI and mobile apps.
 
 <img
   width="50%"
@@ -62,31 +65,31 @@ I love building ML, AI and mobile apps.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sourab-maity-4551061b8/">
+  <a href="https://www.linkedin.com/in/ritik-kumar-96b845212">
     <img
       src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png"
-      height="40"
+      height="60"
       alt="linkedin"
     />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/maity_sourab">
+  <a href="https://codeforces.com/profile/ritik.me01">
     <img
-      src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png"
-      height="40"
-      alt="twitter"
+      src="https://res.cloudinary.com/dzwjrenoc/image/upload/v1768587435/l9bku8ssbk9hwf6fev04.png"
+      height="60"
+      alt="codeforces"
     />
   </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/13909768/sourab-maity">
+  <a href="https://leetcode.com/u/codWala">
     <img
-      src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png"
-      height="40"
-      alt="stackoverflow"
+      src="https://res.cloudinary.com/dzwjrenoc/image/upload/v1768587873/vjdi93ydecyquulgveq8.png"
+      height="60"
+      alt="leetcode"
     />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/sourabmaity">
+  <a href="https://github.com/C00deian">
     <img
       src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png"
-      height="40"
+      height="60"
       alt="github"
     />
   </a>
@@ -107,23 +110,36 @@ I love building ML, AI and mobile apps.
 
 ### &nbsp;- Languages
 
-<p>
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png" height="40" />&nbsp;
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png" height="40" />&nbsp;
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png" height="40" />&nbsp;
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png" width="40" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />&nbsp;
 </p>
+
+
 
 ### &nbsp;- Libraries, Frameworks, Tools
 
-<p>
-  <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/firebase.png" height="50" />&nbsp;
-  <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png" height="50" />&nbsp;
-  <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png" height="50" />&nbsp;
-  <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png" height="50" />&nbsp;
-  <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png" height="50" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
+	<br/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka" title="Apache Kafka" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />&nbsp;
 </p>
+
 
 ---
 
@@ -132,9 +148,9 @@ I love building ML, AI and mobile apps.
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=C00deian&theme=onedark&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
   />
 </p>
-
 ---
 
 ## Watch my contribution graph being eaten by a snake 🐍
@@ -170,3 +186,4 @@ I love building ML, AI and mobile apps.
     src="https://github-readme-streak-stats.herokuapp.com/?user=C00deian&theme=tokyonight"
   />
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
