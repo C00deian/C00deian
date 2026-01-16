@@ -50,7 +50,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/maitysourab" target="_blank">
+  <a href="https://buymeacoffee.com/ritik.me" target="_blank">
     <img
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
       height="45"
