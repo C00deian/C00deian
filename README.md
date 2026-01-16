@@ -104,7 +104,7 @@
 <img
   alt="Coding Gif"
   src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif"
-  height="300"
+  height="280"
   align="right"
 />
 
