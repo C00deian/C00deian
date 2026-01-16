@@ -32,7 +32,7 @@
 
 
 <img
-  width="50%"
+  width="52%"
   align="right"
   alt="GitHub Image"
   src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"
@@ -104,7 +104,7 @@
 <img
   alt="Coding Gif"
   src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif"
-  height="200"
+  height="300"
   align="right"
 />
 
